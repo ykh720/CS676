@@ -29,3 +29,7 @@ Asg2: 100%, 53/53
 Asg3: 93%, 65/70
 
 Asg4: 97%, 72/74
+
+Notes:
+
+Some questions are purely theoretical that no codes are needed.
