@@ -23,6 +23,9 @@ Everything other than above are verified and tested and should be correct.
 Grade:
 
 Asg1: 100%, 44/44
+
 Asg2: 100%, 53/53
+
 Asg3: 93%, 65/70
+
 Asg4: 97%, 72/74
