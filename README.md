@@ -9,3 +9,13 @@ aspects of option pricing and hedging. Numerical methods for stochastic differen
 and weak convergence. Generating correlated random numbers. Time-stepping methods. Finite difference
 methods for the Black-Scholes equation. Discretization, stability, convergence. Computational optimization,
 portfolio optimization and model calibration, data driven optimization.
+
+Epistemological status:
+
+Asg3 Q1, Q2 (no code) has some minor errors, easily fixable. Can check the correct answer in marked assignments.
+
+Asg3 Q5 has minor error which will affect the final output. It is fixed but not verified and tested. 
+
+Asg4 Q6 has error regarding on how to use matlab linprog. Not fixed. 
+
+Everything other than above are verified and tested and should be correct.
